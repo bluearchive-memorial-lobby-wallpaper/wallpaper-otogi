@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-28T14:13:41.367Z",
+  "runtimePath": "D:\\project\\wallpaper-engine\\blue-archive\\wallpaper-otogi\\public\\vendor\\spine-webgl-4.2.js",
+  "source": {
+    "skeleton": "local-assets/original/model/my-character.skel",
+    "atlas": "local-assets/original/model/my-character.atlas",
+    "skeletonBytes": 1168777,
+    "atlasBytes": 17753,
+    "spineVersion": "4.2.33"
+  },
+  "skeleton": {
+    "width": 4052.00048828125,
+    "height": 3619.2099609375,
+    "animations": 23
+  },
+  "animations": [
+    {
+      "name": "Dummy",
+      "duration": 0.03333333507180214,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Eye_Close",
+      "duration": 0.36666667461395264,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Idle_01",
+      "duration": 20.000001907348633,
+      "backgroundEffectTranslateTimelines": 20
+    },
+    {
+      "name": "Idle_01_R",
+      "duration": 10.000000953674316,
+      "backgroundEffectTranslateTimelines": 1
+    },
+    {
+      "name": "LookEnd_01_M",
+      "duration": 0.40000003576278687,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Look_01_M",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_A",
+      "duration": 1,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_M",
+      "duration": 1,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_01_M",
+      "duration": 0.6666666865348816,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_02_M",
+      "duration": 8,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Start_Idle_01",
+      "duration": 20.33333396911621,
+      "backgroundEffectTranslateTimelines": 22
+    },
+    {
+      "name": "Talk_01_A",
+      "duration": 14.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_01_M",
+      "duration": 14.333333969116211,
+      "backgroundEffectTranslateTimelines": 2
+    },
+    {
+      "name": "Talk_02_A",
+      "duration": 16.666667938232422,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_02_M",
+      "duration": 16.666667938232422,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_A",
+      "duration": 21.666667938232422,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_M",
+      "duration": 21.666667938232422,
+      "backgroundEffectTranslateTimelines": 1
+    },
+    {
+      "name": "Talk_04_A",
+      "duration": 18.666667938232422,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_04_M",
+      "duration": 18.666667938232422,
+      "backgroundEffectTranslateTimelines": 1
+    },
+    {
+      "name": "Talk_05_A",
+      "duration": 17,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_05_M",
+      "duration": 17,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_06_A",
+      "duration": 21.666667938232422,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_06_M",
+      "duration": 21.666667938232422,
+      "backgroundEffectTranslateTimelines": 2
+    }
+  ],
+  "violations": [],
+  "ignoredViolations": [],
+  "status": "passed"
+}
